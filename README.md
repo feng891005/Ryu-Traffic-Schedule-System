@@ -1,6 +1,5 @@
 
 # Ryu-Traffic-Schedule-System
-```For a better reading experience, please use https://dillinger.io/ to read```<https://dillinger.io/>
 
 ## Overview
 Ryu-Traffic-Schedule-System is a traffic scheduling system based on Ryu controller. It has functions such as Topo discovery, link traffic statistics, Custom traffic statistics, current traffic scheduling, and empirical value intelligent scheduling, and supports GrafanaGUI real-time display.
