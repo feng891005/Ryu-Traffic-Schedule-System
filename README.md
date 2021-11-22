@@ -1,4 +1,3 @@
-# Ryu-Traffic-Schedule-System
 
 # Ryu-Traffic-Schedule-System
 ```For a better reading experience, please use https://dillinger.io/ to read```<https://dillinger.io/>
